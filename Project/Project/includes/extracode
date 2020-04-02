@@ -1,0 +1,32 @@
+<div class="col-md-6 col-md-offset-3" >
+						<div class="row padding-top-10" >
+							<div class="top-contact-info">
+							<form class="form-inline">
+								<ul  class="">
+									<li class="col-md-2 col-md-offset-4 login-box" >
+									<input type="text" class="form-control  form-control-sm col-md-4 login" placeholder="Username" aria-describedby="basic-addon1">
+									
+									<label class=" font-small" style="color:black;">
+     			 <input type="checkbox" class="form-check-input" style="margin-left:5%" > Remember Me </label>
+									
+</li>
+									<li class="col-md-2 login-box" >
+									
+									<input type="password"  class="form-control form-control-sm col-md-4 login" placeholder="Password" aria-describedby="basic-addon1">
+									<label class="font-small" style="color:black;margin-left:14%;"> Forgot Password ?</label>
+									</li>
+									<li class="col-md-1 login-box">
+									<a class="toolbar-new-listing " href="#">
+									<button type="button" class="form-control col-md-4 login btn btn-sm form-control-sm" style="background-color:#08c2f3;color:white;">Login</button>
+									</a>
+									</li>
+									<li  class="col-md-1 login-box"><a class="toolbar-new-listing" href="#" style="color:white;"><button type="button" class="form-control col-md-4  login btn btn-sm form-control-sm" style="background-color:#08c2f3;"><i class="fa fa-plus-circle"></i> Join Free</a></button></li>
+								</ul>
+
+								 
+								 <div class="form-check" style="">
+    		
+			
+								</div>
+							</div>
+							</div>

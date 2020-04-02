@@ -1,0 +1,33 @@
+<html>
+<head>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.form/4.2.2/jquery.form.js"></script>
+<script>
+$(document).ready(function() 
+{ 
+ $('form').ajaxForm(function() 
+ {
+  alert("Uploaded SuccessFully");
+ }); 
+});
+
+function preview_image() 
+{
+ var total_file=document.getElementById("upload_file").files.length;
+ for(var i=0;i<total_file;i++)
+ {
+  $('#image_preview').append("<img src='"+URL.createObjectURL(event.target.files[i])+"'><br>");
+ }
+}
+</script>
+</head>
+<body>
+<div id="wrapper">
+ <form action="upload_file.php" method="post" enctype="multipart/form-data">
+  <input type="file" id="upload_file" name="upload_file[]" onchange="preview_image();" multiple/>
+  <input type="submit" name='submit_image' value="Upload Image"/>
+ </form>
+ <div id="image_preview"></div>
+</div>
+</body>
+</html>

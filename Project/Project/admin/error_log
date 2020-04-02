@@ -1,0 +1,484 @@
+[06-Jan-2018 02:24:43 Asia/Kolkata] PHP Warning:  include(phpmailer/mail.php): failed to open stream: No such file or directory in /home/thebio7j/public_html/home/admin/config.php on line 31
+[06-Jan-2018 02:24:43 Asia/Kolkata] PHP Warning:  include(phpmailer/mail.php): failed to open stream: No such file or directory in /home/thebio7j/public_html/home/admin/config.php on line 31
+[06-Jan-2018 02:24:43 Asia/Kolkata] PHP Warning:  include(): Failed opening 'phpmailer/mail.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/thebio7j/public_html/home/admin/config.php on line 31
+[06-Jan-2018 11:32:29 Asia/Kolkata] PHP Warning:  include(phpmailer/mail.php): failed to open stream: No such file or directory in /home/thebio7j/public_html/home/admin/config.php on line 31
+[06-Jan-2018 11:32:29 Asia/Kolkata] PHP Warning:  include(phpmailer/mail.php): failed to open stream: No such file or directory in /home/thebio7j/public_html/home/admin/config.php on line 31
+[06-Jan-2018 11:32:29 Asia/Kolkata] PHP Warning:  include(): Failed opening 'phpmailer/mail.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/thebio7j/public_html/home/admin/config.php on line 31
+[06-Jan-2018 11:40:40 Asia/Kolkata] PHP Warning:  include(phpmailer/mail.php): failed to open stream: No such file or directory in /home/thebio7j/public_html/home/admin/config.php on line 31
+[06-Jan-2018 11:40:40 Asia/Kolkata] PHP Warning:  include(phpmailer/mail.php): failed to open stream: No such file or directory in /home/thebio7j/public_html/home/admin/config.php on line 31
+[06-Jan-2018 11:40:40 Asia/Kolkata] PHP Warning:  include(): Failed opening 'phpmailer/mail.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/thebio7j/public_html/home/admin/config.php on line 31
+[06-Jan-2018 11:40:40 Asia/Kolkata] PHP Notice:  Undefined index: sub in /home/thebio7j/public_html/home/admin/send_mail.php on line 14
+[06-Jan-2018 11:40:40 Asia/Kolkata] PHP Notice:  Undefined index: msg in /home/thebio7j/public_html/home/admin/send_mail.php on line 15
+[06-Jan-2018 11:42:22 Asia/Kolkata] PHP Warning:  include(phpmailer/mail.php): failed to open stream: No such file or directory in /home/thebio7j/public_html/home/admin/config.php on line 31
+[06-Jan-2018 11:42:22 Asia/Kolkata] PHP Warning:  include(phpmailer/mail.php): failed to open stream: No such file or directory in /home/thebio7j/public_html/home/admin/config.php on line 31
+[06-Jan-2018 11:42:22 Asia/Kolkata] PHP Warning:  include(): Failed opening 'phpmailer/mail.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/thebio7j/public_html/home/admin/config.php on line 31
+[06-Jan-2018 11:42:22 Asia/Kolkata] PHP Notice:  Undefined index: sub in /home/thebio7j/public_html/home/admin/send_mail.php on line 15
+[06-Jan-2018 11:42:22 Asia/Kolkata] PHP Notice:  Undefined index: msg in /home/thebio7j/public_html/home/admin/send_mail.php on line 16
+[06-Jan-2018 11:43:15 Asia/Kolkata] PHP Warning:  include(phpmailer/mail.php): failed to open stream: No such file or directory in /home/thebio7j/public_html/home/admin/config.php on line 31
+[06-Jan-2018 11:43:15 Asia/Kolkata] PHP Warning:  include(phpmailer/mail.php): failed to open stream: No such file or directory in /home/thebio7j/public_html/home/admin/config.php on line 31
+[06-Jan-2018 11:43:15 Asia/Kolkata] PHP Warning:  include(): Failed opening 'phpmailer/mail.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/thebio7j/public_html/home/admin/config.php on line 31
+[06-Jan-2018 11:43:15 Asia/Kolkata] PHP Notice:  Undefined index: sub in /home/thebio7j/public_html/home/admin/send_mail.php on line 15
+[06-Jan-2018 11:43:15 Asia/Kolkata] PHP Notice:  Undefined index: msg in /home/thebio7j/public_html/home/admin/send_mail.php on line 16
+[06-Jan-2018 11:43:15 Asia/Kolkata] PHP Notice:  Undefined index: sub in /home/thebio7j/public_html/home/admin/send_mail.php on line 15
+[06-Jan-2018 11:43:15 Asia/Kolkata] PHP Notice:  Undefined index: msg in /home/thebio7j/public_html/home/admin/send_mail.php on line 16
+[06-Jan-2018 11:43:15 Asia/Kolkata] PHP Fatal error:  Cannot redeclare PHPMailerAutoload() (previously declared in /home/thebio7j/public_html/home/admin/PHPMailer-master/PHPMailerAutoload.php:24) in /home/thebio7j/public_html/home/admin/PHPMailer-master/PHPMailerAutoload.php on line 31
+[06-Jan-2018 11:44:01 Asia/Kolkata] PHP Warning:  include(phpmailer/mail.php): failed to open stream: No such file or directory in /home/thebio7j/public_html/home/admin/config.php on line 31
+[06-Jan-2018 11:44:01 Asia/Kolkata] PHP Warning:  include(phpmailer/mail.php): failed to open stream: No such file or directory in /home/thebio7j/public_html/home/admin/config.php on line 31
+[06-Jan-2018 11:44:01 Asia/Kolkata] PHP Warning:  include(): Failed opening 'phpmailer/mail.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/thebio7j/public_html/home/admin/config.php on line 31
+[06-Jan-2018 11:44:01 Asia/Kolkata] PHP Fatal error:  Cannot redeclare PHPMailerAutoload() (previously declared in /home/thebio7j/public_html/home/admin/PHPMailer-master/PHPMailerAutoload.php:24) in /home/thebio7j/public_html/home/admin/PHPMailer-master/PHPMailerAutoload.php on line 31
+[06-Jan-2018 11:46:09 Asia/Kolkata] PHP Warning:  include(phpmailer/mail.php): failed to open stream: No such file or directory in /home/thebio7j/public_html/home/admin/config.php on line 31
+[06-Jan-2018 11:46:09 Asia/Kolkata] PHP Warning:  include(phpmailer/mail.php): failed to open stream: No such file or directory in /home/thebio7j/public_html/home/admin/config.php on line 31
+[06-Jan-2018 11:46:09 Asia/Kolkata] PHP Warning:  include(): Failed opening 'phpmailer/mail.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/thebio7j/public_html/home/admin/config.php on line 31
+[06-Jan-2018 11:48:06 Asia/Kolkata] PHP Warning:  include(phpmailer/mail.php): failed to open stream: No such file or directory in /home/thebio7j/public_html/home/admin/config.php on line 31
+[06-Jan-2018 11:48:06 Asia/Kolkata] PHP Warning:  include(phpmailer/mail.php): failed to open stream: No such file or directory in /home/thebio7j/public_html/home/admin/config.php on line 31
+[06-Jan-2018 11:48:06 Asia/Kolkata] PHP Warning:  include(): Failed opening 'phpmailer/mail.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/thebio7j/public_html/home/admin/config.php on line 31
+[06-Jan-2018 11:48:06 Asia/Kolkata] PHP Fatal error:  Cannot redeclare PHPMailerAutoload() (previously declared in /home/thebio7j/public_html/home/admin/PHPMailer-master/PHPMailerAutoload.php:24) in /home/thebio7j/public_html/home/admin/PHPMailer-master/PHPMailerAutoload.php on line 31
+[06-Jan-2018 06:22:10 Etc/GMT] PHP Parse error:  syntax error, unexpected ')' in /home/thebio7j/public_html/home/admin/send_mail.php on line 9
+[06-Jan-2018 06:28:36 Etc/GMT] PHP Parse error:  syntax error, unexpected ')' in /home/thebio7j/public_html/home/admin/send_mail.php on line 9
+[06-Jan-2018 12:01:32 Asia/Kolkata] PHP Warning:  include(phpmailer/mail.php): failed to open stream: No such file or directory in /home/thebio7j/public_html/home/admin/config.php on line 31
+[06-Jan-2018 12:01:32 Asia/Kolkata] PHP Warning:  include(phpmailer/mail.php): failed to open stream: No such file or directory in /home/thebio7j/public_html/home/admin/config.php on line 31
+[06-Jan-2018 12:01:32 Asia/Kolkata] PHP Warning:  include(): Failed opening 'phpmailer/mail.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/thebio7j/public_html/home/admin/config.php on line 31
+[06-Jan-2018 12:01:32 Asia/Kolkata] PHP Notice:  Undefined index: sub in /home/thebio7j/public_html/home/admin/send_mail.php on line 15
+[06-Jan-2018 12:01:32 Asia/Kolkata] PHP Notice:  Undefined index: msg in /home/thebio7j/public_html/home/admin/send_mail.php on line 16
+[06-Jan-2018 12:02:33 Asia/Kolkata] PHP Warning:  include(phpmailer/mail.php): failed to open stream: No such file or directory in /home/thebio7j/public_html/home/admin/config.php on line 31
+[06-Jan-2018 12:02:33 Asia/Kolkata] PHP Warning:  include(phpmailer/mail.php): failed to open stream: No such file or directory in /home/thebio7j/public_html/home/admin/config.php on line 31
+[06-Jan-2018 12:02:33 Asia/Kolkata] PHP Warning:  include(): Failed opening 'phpmailer/mail.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/thebio7j/public_html/home/admin/config.php on line 31
+[06-Jan-2018 12:02:33 Asia/Kolkata] PHP Notice:  Undefined index: sub in /home/thebio7j/public_html/home/admin/send_mail.php on line 13
+[06-Jan-2018 12:02:33 Asia/Kolkata] PHP Notice:  Undefined index: msg in /home/thebio7j/public_html/home/admin/send_mail.php on line 14
+[06-Jan-2018 12:02:37 Asia/Kolkata] PHP Warning:  include(phpmailer/mail.php): failed to open stream: No such file or directory in /home/thebio7j/public_html/home/admin/config.php on line 31
+[06-Jan-2018 12:02:37 Asia/Kolkata] PHP Warning:  include(phpmailer/mail.php): failed to open stream: No such file or directory in /home/thebio7j/public_html/home/admin/config.php on line 31
+[06-Jan-2018 12:02:37 Asia/Kolkata] PHP Warning:  include(): Failed opening 'phpmailer/mail.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/thebio7j/public_html/home/admin/config.php on line 31
+[06-Jan-2018 12:02:37 Asia/Kolkata] PHP Notice:  Undefined index: sub in /home/thebio7j/public_html/home/admin/send_mail.php on line 13
+[06-Jan-2018 12:02:37 Asia/Kolkata] PHP Notice:  Undefined index: msg in /home/thebio7j/public_html/home/admin/send_mail.php on line 14
+[06-Jan-2018 12:03:11 Asia/Kolkata] PHP Warning:  include(phpmailer/mail.php): failed to open stream: No such file or directory in /home/thebio7j/public_html/home/admin/config.php on line 31
+[06-Jan-2018 12:03:11 Asia/Kolkata] PHP Warning:  include(phpmailer/mail.php): failed to open stream: No such file or directory in /home/thebio7j/public_html/home/admin/config.php on line 31
+[06-Jan-2018 12:03:11 Asia/Kolkata] PHP Warning:  include(): Failed opening 'phpmailer/mail.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/thebio7j/public_html/home/admin/config.php on line 31
+[06-Jan-2018 12:18:51 Asia/Kolkata] PHP Warning:  include(phpmailer/mail.php): failed to open stream: No such file or directory in /home/thebio7j/public_html/home/admin/config.php on line 31
+[06-Jan-2018 12:18:51 Asia/Kolkata] PHP Warning:  include(phpmailer/mail.php): failed to open stream: No such file or directory in /home/thebio7j/public_html/home/admin/config.php on line 31
+[06-Jan-2018 12:18:51 Asia/Kolkata] PHP Warning:  include(): Failed opening 'phpmailer/mail.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/thebio7j/public_html/home/admin/config.php on line 31
+[06-Jan-2018 12:24:14 Asia/Kolkata] PHP Warning:  include(phpmailer/mail.php): failed to open stream: No such file or directory in /home/thebio7j/public_html/home/admin/config.php on line 31
+[06-Jan-2018 12:24:14 Asia/Kolkata] PHP Warning:  include(phpmailer/mail.php): failed to open stream: No such file or directory in /home/thebio7j/public_html/home/admin/config.php on line 31
+[06-Jan-2018 12:24:14 Asia/Kolkata] PHP Warning:  include(): Failed opening 'phpmailer/mail.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/thebio7j/public_html/home/admin/config.php on line 31
+[06-Jan-2018 12:24:14 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_fetch_assoc() in /home/thebio7j/public_html/home/admin/send_mail.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/thebio7j/public_html/home/admin/send_mail.php on line 7
+[06-Jan-2018 12:25:18 Asia/Kolkata] PHP Warning:  include(phpmailer/mail.php): failed to open stream: No such file or directory in /home/thebio7j/public_html/home/admin/config.php on line 31
+[06-Jan-2018 12:25:18 Asia/Kolkata] PHP Warning:  include(phpmailer/mail.php): failed to open stream: No such file or directory in /home/thebio7j/public_html/home/admin/config.php on line 31
+[06-Jan-2018 12:25:18 Asia/Kolkata] PHP Warning:  include(): Failed opening 'phpmailer/mail.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/thebio7j/public_html/home/admin/config.php on line 31
+[06-Jan-2018 12:25:18 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_fetch_assoc() in /home/thebio7j/public_html/home/admin/send_mail.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/thebio7j/public_html/home/admin/send_mail.php on line 7
+[06-Jan-2018 12:31:56 Asia/Kolkata] PHP Warning:  include(phpmailer/mail.php): failed to open stream: No such file or directory in /home/thebio7j/public_html/home/admin/config.php on line 31
+[06-Jan-2018 12:31:56 Asia/Kolkata] PHP Warning:  include(phpmailer/mail.php): failed to open stream: No such file or directory in /home/thebio7j/public_html/home/admin/config.php on line 31
+[06-Jan-2018 12:31:56 Asia/Kolkata] PHP Warning:  include(): Failed opening 'phpmailer/mail.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/thebio7j/public_html/home/admin/config.php on line 31
+[06-Jan-2018 12:31:56 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_fetch_assoc() in /home/thebio7j/public_html/home/admin/send_mail.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/thebio7j/public_html/home/admin/send_mail.php on line 7
+[06-Jan-2018 12:35:07 Asia/Kolkata] PHP Warning:  include(phpmailer/mail.php): failed to open stream: No such file or directory in /home/thebio7j/public_html/home/admin/config.php on line 31
+[06-Jan-2018 12:35:07 Asia/Kolkata] PHP Warning:  include(phpmailer/mail.php): failed to open stream: No such file or directory in /home/thebio7j/public_html/home/admin/config.php on line 31
+[06-Jan-2018 12:35:07 Asia/Kolkata] PHP Warning:  include(): Failed opening 'phpmailer/mail.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/thebio7j/public_html/home/admin/config.php on line 31
+[06-Jan-2018 12:35:07 Asia/Kolkata] PHP Notice:  Undefined index: sub in /home/thebio7j/public_html/home/admin/send_mail.php on line 17
+[06-Jan-2018 12:35:07 Asia/Kolkata] PHP Notice:  Undefined index: msg in /home/thebio7j/public_html/home/admin/send_mail.php on line 18
+[06-Jan-2018 12:35:12 Asia/Kolkata] PHP Warning:  include(phpmailer/mail.php): failed to open stream: No such file or directory in /home/thebio7j/public_html/home/admin/config.php on line 31
+[06-Jan-2018 12:35:12 Asia/Kolkata] PHP Warning:  include(phpmailer/mail.php): failed to open stream: No such file or directory in /home/thebio7j/public_html/home/admin/config.php on line 31
+[06-Jan-2018 12:35:12 Asia/Kolkata] PHP Warning:  include(): Failed opening 'phpmailer/mail.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/thebio7j/public_html/home/admin/config.php on line 31
+[06-Jan-2018 12:35:12 Asia/Kolkata] PHP Notice:  Undefined index: sub in /home/thebio7j/public_html/home/admin/send_mail.php on line 17
+[06-Jan-2018 12:35:12 Asia/Kolkata] PHP Notice:  Undefined index: msg in /home/thebio7j/public_html/home/admin/send_mail.php on line 18
+[06-Jan-2018 12:35:34 Asia/Kolkata] PHP Warning:  include(phpmailer/mail.php): failed to open stream: No such file or directory in /home/thebio7j/public_html/home/admin/config.php on line 31
+[06-Jan-2018 12:35:34 Asia/Kolkata] PHP Warning:  include(phpmailer/mail.php): failed to open stream: No such file or directory in /home/thebio7j/public_html/home/admin/config.php on line 31
+[06-Jan-2018 12:35:34 Asia/Kolkata] PHP Warning:  include(): Failed opening 'phpmailer/mail.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/thebio7j/public_html/home/admin/config.php on line 31
+[06-Jan-2018 12:57:50 Asia/Kolkata] PHP Warning:  include(phpmailer/mail.php): failed to open stream: No such file or directory in /home/thebio7j/public_html/home/admin/config.php on line 31
+[06-Jan-2018 12:57:50 Asia/Kolkata] PHP Warning:  include(phpmailer/mail.php): failed to open stream: No such file or directory in /home/thebio7j/public_html/home/admin/config.php on line 31
+[06-Jan-2018 12:57:50 Asia/Kolkata] PHP Warning:  include(): Failed opening 'phpmailer/mail.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/thebio7j/public_html/home/admin/config.php on line 31
+[06-Jan-2018 13:04:21 Asia/Kolkata] PHP Warning:  include(phpmailer/mail.php): failed to open stream: No such file or directory in /home/thebio7j/public_html/home/admin/config.php on line 31
+[06-Jan-2018 13:04:21 Asia/Kolkata] PHP Warning:  include(phpmailer/mail.php): failed to open stream: No such file or directory in /home/thebio7j/public_html/home/admin/config.php on line 31
+[06-Jan-2018 13:04:21 Asia/Kolkata] PHP Warning:  include(): Failed opening 'phpmailer/mail.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/thebio7j/public_html/home/admin/config.php on line 31
+[06-Jan-2018 13:04:21 Asia/Kolkata] PHP Fatal error:  Cannot redeclare PHPMailerAutoload() (previously declared in /home/thebio7j/public_html/home/admin/PHPMailer-master/PHPMailerAutoload.php:24) in /home/thebio7j/public_html/home/admin/PHPMailer-master/PHPMailerAutoload.php on line 31
+[06-Jan-2018 13:04:53 Asia/Kolkata] PHP Warning:  include(phpmailer/mail.php): failed to open stream: No such file or directory in /home/thebio7j/public_html/home/admin/config.php on line 31
+[06-Jan-2018 13:04:53 Asia/Kolkata] PHP Warning:  include(phpmailer/mail.php): failed to open stream: No such file or directory in /home/thebio7j/public_html/home/admin/config.php on line 31
+[06-Jan-2018 13:04:53 Asia/Kolkata] PHP Warning:  include(): Failed opening 'phpmailer/mail.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/thebio7j/public_html/home/admin/config.php on line 31
+[06-Jan-2018 13:04:53 Asia/Kolkata] PHP Notice:  Undefined index: sub in /home/thebio7j/public_html/home/admin/send_mail.php on line 17
+[06-Jan-2018 13:04:53 Asia/Kolkata] PHP Notice:  Undefined index: msg in /home/thebio7j/public_html/home/admin/send_mail.php on line 18
+[06-Jan-2018 13:04:53 Asia/Kolkata] PHP Notice:  Undefined index: sub in /home/thebio7j/public_html/home/admin/send_mail.php on line 17
+[06-Jan-2018 13:04:53 Asia/Kolkata] PHP Notice:  Undefined index: msg in /home/thebio7j/public_html/home/admin/send_mail.php on line 18
+[06-Jan-2018 13:04:53 Asia/Kolkata] PHP Fatal error:  Cannot redeclare PHPMailerAutoload() (previously declared in /home/thebio7j/public_html/home/admin/PHPMailer-master/PHPMailerAutoload.php:24) in /home/thebio7j/public_html/home/admin/PHPMailer-master/PHPMailerAutoload.php on line 31
+[06-Jan-2018 13:05:41 Asia/Kolkata] PHP Warning:  include(phpmailer/mail.php): failed to open stream: No such file or directory in /home/thebio7j/public_html/home/admin/config.php on line 31
+[06-Jan-2018 13:05:41 Asia/Kolkata] PHP Warning:  include(phpmailer/mail.php): failed to open stream: No such file or directory in /home/thebio7j/public_html/home/admin/config.php on line 31
+[06-Jan-2018 13:05:41 Asia/Kolkata] PHP Warning:  include(): Failed opening 'phpmailer/mail.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/thebio7j/public_html/home/admin/config.php on line 31
+[06-Jan-2018 13:05:41 Asia/Kolkata] PHP Notice:  Undefined index: sub in /home/thebio7j/public_html/home/admin/send_mail.php on line 17
+[06-Jan-2018 13:05:41 Asia/Kolkata] PHP Notice:  Undefined index: msg in /home/thebio7j/public_html/home/admin/send_mail.php on line 18
+[06-Jan-2018 13:05:45 Asia/Kolkata] PHP Warning:  include(phpmailer/mail.php): failed to open stream: No such file or directory in /home/thebio7j/public_html/home/admin/config.php on line 31
+[06-Jan-2018 13:05:45 Asia/Kolkata] PHP Warning:  include(phpmailer/mail.php): failed to open stream: No such file or directory in /home/thebio7j/public_html/home/admin/config.php on line 31
+[06-Jan-2018 13:05:45 Asia/Kolkata] PHP Warning:  include(): Failed opening 'phpmailer/mail.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/thebio7j/public_html/home/admin/config.php on line 31
+[06-Jan-2018 13:05:45 Asia/Kolkata] PHP Notice:  Undefined index: sub in /home/thebio7j/public_html/home/admin/send_mail.php on line 17
+[06-Jan-2018 13:05:45 Asia/Kolkata] PHP Notice:  Undefined index: msg in /home/thebio7j/public_html/home/admin/send_mail.php on line 18
+[06-Jan-2018 13:05:51 Asia/Kolkata] PHP Warning:  include(phpmailer/mail.php): failed to open stream: No such file or directory in /home/thebio7j/public_html/home/admin/config.php on line 31
+[06-Jan-2018 13:05:51 Asia/Kolkata] PHP Warning:  include(phpmailer/mail.php): failed to open stream: No such file or directory in /home/thebio7j/public_html/home/admin/config.php on line 31
+[06-Jan-2018 13:05:51 Asia/Kolkata] PHP Warning:  include(): Failed opening 'phpmailer/mail.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/thebio7j/public_html/home/admin/config.php on line 31
+[06-Jan-2018 13:16:07 Asia/Kolkata] PHP Warning:  include(phpmailer/mail.php): failed to open stream: No such file or directory in /home/thebio7j/public_html/home/admin/config.php on line 31
+[06-Jan-2018 13:16:07 Asia/Kolkata] PHP Warning:  include(phpmailer/mail.php): failed to open stream: No such file or directory in /home/thebio7j/public_html/home/admin/config.php on line 31
+[06-Jan-2018 13:16:07 Asia/Kolkata] PHP Warning:  include(): Failed opening 'phpmailer/mail.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/thebio7j/public_html/home/admin/config.php on line 31
+[06-Jan-2018 13:16:07 Asia/Kolkata] PHP Notice:  Undefined variable: row in /home/thebio7j/public_html/home/admin/send_mail.php on line 19
+[06-Jan-2018 13:16:37 Asia/Kolkata] PHP Warning:  include(phpmailer/mail.php): failed to open stream: No such file or directory in /home/thebio7j/public_html/home/admin/config.php on line 31
+[06-Jan-2018 13:16:37 Asia/Kolkata] PHP Warning:  include(phpmailer/mail.php): failed to open stream: No such file or directory in /home/thebio7j/public_html/home/admin/config.php on line 31
+[06-Jan-2018 13:16:37 Asia/Kolkata] PHP Warning:  include(): Failed opening 'phpmailer/mail.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/thebio7j/public_html/home/admin/config.php on line 31
+[06-Jan-2018 13:16:37 Asia/Kolkata] PHP Notice:  Undefined variable: row in /home/thebio7j/public_html/home/admin/send_mail.php on line 19
+[06-Jan-2018 13:16:40 Asia/Kolkata] PHP Warning:  include(phpmailer/mail.php): failed to open stream: No such file or directory in /home/thebio7j/public_html/home/admin/config.php on line 31
+[06-Jan-2018 13:16:40 Asia/Kolkata] PHP Warning:  include(phpmailer/mail.php): failed to open stream: No such file or directory in /home/thebio7j/public_html/home/admin/config.php on line 31
+[06-Jan-2018 13:16:40 Asia/Kolkata] PHP Warning:  include(): Failed opening 'phpmailer/mail.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/thebio7j/public_html/home/admin/config.php on line 31
+[06-Jan-2018 13:16:40 Asia/Kolkata] PHP Notice:  Undefined variable: row in /home/thebio7j/public_html/home/admin/send_mail.php on line 19
+[06-Jan-2018 13:16:49 Asia/Kolkata] PHP Warning:  include(phpmailer/mail.php): failed to open stream: No such file or directory in /home/thebio7j/public_html/home/admin/config.php on line 31
+[06-Jan-2018 13:16:49 Asia/Kolkata] PHP Warning:  include(phpmailer/mail.php): failed to open stream: No such file or directory in /home/thebio7j/public_html/home/admin/config.php on line 31
+[06-Jan-2018 13:16:49 Asia/Kolkata] PHP Warning:  include(): Failed opening 'phpmailer/mail.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/thebio7j/public_html/home/admin/config.php on line 31
+[06-Jan-2018 13:40:59 Asia/Kolkata] PHP Warning:  include(phpmailer/mail.php): failed to open stream: No such file or directory in /home/thebio7j/public_html/home/admin/config.php on line 31
+[06-Jan-2018 13:40:59 Asia/Kolkata] PHP Warning:  include(phpmailer/mail.php): failed to open stream: No such file or directory in /home/thebio7j/public_html/home/admin/config.php on line 31
+[06-Jan-2018 13:40:59 Asia/Kolkata] PHP Warning:  include(): Failed opening 'phpmailer/mail.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/thebio7j/public_html/home/admin/config.php on line 31
+[06-Jan-2018 13:40:59 Asia/Kolkata] PHP Fatal error:  Cannot redeclare PHPMailerAutoload() (previously declared in /home/thebio7j/public_html/home/admin/PHPMailer-master/PHPMailerAutoload.php:24) in /home/thebio7j/public_html/home/admin/PHPMailer-master/PHPMailerAutoload.php on line 31
+[06-Jan-2018 13:42:54 Asia/Kolkata] PHP Warning:  include(phpmailer/mail.php): failed to open stream: No such file or directory in /home/thebio7j/public_html/home/admin/config.php on line 31
+[06-Jan-2018 13:42:54 Asia/Kolkata] PHP Warning:  include(phpmailer/mail.php): failed to open stream: No such file or directory in /home/thebio7j/public_html/home/admin/config.php on line 31
+[06-Jan-2018 13:42:54 Asia/Kolkata] PHP Warning:  include(): Failed opening 'phpmailer/mail.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/thebio7j/public_html/home/admin/config.php on line 31
+[06-Jan-2018 13:42:54 Asia/Kolkata] PHP Fatal error:  Cannot redeclare PHPMailerAutoload() (previously declared in /home/thebio7j/public_html/home/admin/PHPMailer-master/PHPMailerAutoload.php:24) in /home/thebio7j/public_html/home/admin/PHPMailer-master/PHPMailerAutoload.php on line 31
+[06-Jan-2018 13:49:15 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, object given in /home/thebio7j/public_html/home/admin/send_mail.php on line 18
+[06-Jan-2018 13:49:15 Asia/Kolkata] PHP Notice:  Undefined variable: mail in /home/thebio7j/public_html/home/admin/send_mail.php on line 41
+[06-Jan-2018 13:49:15 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to a member function Send() on null in /home/thebio7j/public_html/home/admin/send_mail.php:41
+Stack trace:
+#0 {main}
+  thrown in /home/thebio7j/public_html/home/admin/send_mail.php on line 41
+[06-Jan-2018 13:51:52 Asia/Kolkata] PHP Warning:  mysqli_fetch_row() expects exactly 1 parameter, 2 given in /home/thebio7j/public_html/home/admin/send_mail.php on line 21
+[06-Jan-2018 13:51:52 Asia/Kolkata] PHP Notice:  Undefined variable: mail in /home/thebio7j/public_html/home/admin/send_mail.php on line 44
+[06-Jan-2018 13:51:52 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to a member function Send() on null in /home/thebio7j/public_html/home/admin/send_mail.php:44
+Stack trace:
+#0 {main}
+  thrown in /home/thebio7j/public_html/home/admin/send_mail.php on line 44
+[06-Jan-2018 13:54:19 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/thebio7j/public_html/home/admin/send_mail.php on line 15
+[06-Jan-2018 13:54:19 Asia/Kolkata] PHP Warning:  mysqli_fetch_row() expects exactly 1 parameter, 2 given in /home/thebio7j/public_html/home/admin/send_mail.php on line 24
+[06-Jan-2018 13:54:19 Asia/Kolkata] PHP Notice:  Undefined variable: mail in /home/thebio7j/public_html/home/admin/send_mail.php on line 47
+[06-Jan-2018 13:54:19 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to a member function Send() on null in /home/thebio7j/public_html/home/admin/send_mail.php:47
+Stack trace:
+#0 {main}
+  thrown in /home/thebio7j/public_html/home/admin/send_mail.php on line 47
+[06-Jan-2018 13:54:23 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/thebio7j/public_html/home/admin/send_mail.php on line 15
+[06-Jan-2018 13:54:23 Asia/Kolkata] PHP Warning:  mysqli_fetch_row() expects exactly 1 parameter, 2 given in /home/thebio7j/public_html/home/admin/send_mail.php on line 24
+[06-Jan-2018 13:54:23 Asia/Kolkata] PHP Notice:  Undefined variable: mail in /home/thebio7j/public_html/home/admin/send_mail.php on line 47
+[06-Jan-2018 13:54:23 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to a member function Send() on null in /home/thebio7j/public_html/home/admin/send_mail.php:47
+Stack trace:
+#0 {main}
+  thrown in /home/thebio7j/public_html/home/admin/send_mail.php on line 47
+[06-Jan-2018 13:54:29 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/thebio7j/public_html/home/admin/send_mail.php on line 15
+[06-Jan-2018 13:54:29 Asia/Kolkata] PHP Warning:  mysqli_fetch_row() expects exactly 1 parameter, 2 given in /home/thebio7j/public_html/home/admin/send_mail.php on line 24
+[06-Jan-2018 13:54:29 Asia/Kolkata] PHP Notice:  Undefined variable: mail in /home/thebio7j/public_html/home/admin/send_mail.php on line 47
+[06-Jan-2018 13:54:29 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to a member function Send() on null in /home/thebio7j/public_html/home/admin/send_mail.php:47
+Stack trace:
+#0 {main}
+  thrown in /home/thebio7j/public_html/home/admin/send_mail.php on line 47
+[06-Jan-2018 08:34:30 Etc/GMT] PHP Parse error:  syntax error, unexpected 'while' (T_WHILE) in /home/thebio7j/public_html/home/admin/send_mail.php on line 24
+[06-Jan-2018 08:38:34 Etc/GMT] PHP Parse error:  syntax error, unexpected '}' in /home/thebio7j/public_html/home/admin/send_mail.php on line 30
+[06-Jan-2018 14:09:14 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/thebio7j/public_html/home/admin/send_mail.php on line 15
+[06-Jan-2018 14:09:14 Asia/Kolkata] PHP Warning:  mysqli_fetch_row() expects exactly 1 parameter, 2 given in /home/thebio7j/public_html/home/admin/send_mail.php on line 24
+[06-Jan-2018 14:09:14 Asia/Kolkata] PHP Notice:  Undefined variable: mailto in /home/thebio7j/public_html/home/admin/send_mail.php on line 34
+[06-Jan-2018 14:09:14 Asia/Kolkata] PHP Notice:  Undefined index: sub in /home/thebio7j/public_html/home/admin/send_mail.php on line 39
+[06-Jan-2018 14:09:14 Asia/Kolkata] PHP Notice:  Undefined index: msg in /home/thebio7j/public_html/home/admin/send_mail.php on line 40
+[06-Jan-2018 14:09:14 Asia/Kolkata] PHP Notice:  Undefined variable: mailto in /home/thebio7j/public_html/home/admin/send_mail.php on line 55
+[06-Jan-2018 14:18:22 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/thebio7j/public_html/home/admin/send_mail.php on line 46
+[06-Jan-2018 14:18:22 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects exactly 1 parameter, 2 given in /home/thebio7j/public_html/home/admin/send_mail.php on line 52
+[06-Jan-2018 14:18:22 Asia/Kolkata] PHP Notice:  Undefined offset: 0 in /home/thebio7j/public_html/home/admin/send_mail.php on line 64
+[06-Jan-2018 14:18:22 Asia/Kolkata] PHP Notice:  Undefined index: sub in /home/thebio7j/public_html/home/admin/send_mail.php on line 68
+[06-Jan-2018 14:18:22 Asia/Kolkata] PHP Notice:  Undefined index: msg in /home/thebio7j/public_html/home/admin/send_mail.php on line 69
+[06-Jan-2018 14:18:22 Asia/Kolkata] PHP Notice:  Undefined variable: mailto in /home/thebio7j/public_html/home/admin/send_mail.php on line 84
+[06-Jan-2018 14:19:09 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/thebio7j/public_html/home/admin/send_mail.php on line 46
+[06-Jan-2018 14:19:09 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects exactly 1 parameter, 2 given in /home/thebio7j/public_html/home/admin/send_mail.php on line 52
+[06-Jan-2018 14:19:09 Asia/Kolkata] PHP Notice:  Undefined offset: 0 in /home/thebio7j/public_html/home/admin/send_mail.php on line 64
+[06-Jan-2018 14:19:09 Asia/Kolkata] PHP Notice:  Undefined index: sub in /home/thebio7j/public_html/home/admin/send_mail.php on line 68
+[06-Jan-2018 14:19:09 Asia/Kolkata] PHP Notice:  Undefined index: msg in /home/thebio7j/public_html/home/admin/send_mail.php on line 69
+[06-Jan-2018 14:19:09 Asia/Kolkata] PHP Notice:  Undefined variable: mailto in /home/thebio7j/public_html/home/admin/send_mail.php on line 84
+[06-Jan-2018 14:19:20 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/thebio7j/public_html/home/admin/send_mail.php on line 46
+[06-Jan-2018 14:19:20 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects exactly 1 parameter, 2 given in /home/thebio7j/public_html/home/admin/send_mail.php on line 52
+[06-Jan-2018 14:19:20 Asia/Kolkata] PHP Notice:  Undefined offset: 1 in /home/thebio7j/public_html/home/admin/send_mail.php on line 64
+[06-Jan-2018 14:19:20 Asia/Kolkata] PHP Notice:  Undefined index: sub in /home/thebio7j/public_html/home/admin/send_mail.php on line 68
+[06-Jan-2018 14:19:20 Asia/Kolkata] PHP Notice:  Undefined index: msg in /home/thebio7j/public_html/home/admin/send_mail.php on line 69
+[06-Jan-2018 14:19:20 Asia/Kolkata] PHP Notice:  Undefined variable: mailto in /home/thebio7j/public_html/home/admin/send_mail.php on line 84
+[06-Jan-2018 14:19:24 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/thebio7j/public_html/home/admin/send_mail.php on line 46
+[06-Jan-2018 14:19:24 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects exactly 1 parameter, 2 given in /home/thebio7j/public_html/home/admin/send_mail.php on line 52
+[06-Jan-2018 14:19:24 Asia/Kolkata] PHP Notice:  Undefined offset: 1 in /home/thebio7j/public_html/home/admin/send_mail.php on line 64
+[06-Jan-2018 14:19:24 Asia/Kolkata] PHP Notice:  Undefined index: sub in /home/thebio7j/public_html/home/admin/send_mail.php on line 68
+[06-Jan-2018 14:19:24 Asia/Kolkata] PHP Notice:  Undefined index: msg in /home/thebio7j/public_html/home/admin/send_mail.php on line 69
+[06-Jan-2018 14:19:24 Asia/Kolkata] PHP Notice:  Undefined variable: mailto in /home/thebio7j/public_html/home/admin/send_mail.php on line 84
+[06-Jan-2018 14:19:26 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/thebio7j/public_html/home/admin/send_mail.php on line 46
+[06-Jan-2018 14:19:26 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects exactly 1 parameter, 2 given in /home/thebio7j/public_html/home/admin/send_mail.php on line 52
+[06-Jan-2018 14:19:26 Asia/Kolkata] PHP Notice:  Undefined offset: 1 in /home/thebio7j/public_html/home/admin/send_mail.php on line 64
+[06-Jan-2018 14:19:26 Asia/Kolkata] PHP Notice:  Undefined index: sub in /home/thebio7j/public_html/home/admin/send_mail.php on line 68
+[06-Jan-2018 14:19:26 Asia/Kolkata] PHP Notice:  Undefined index: msg in /home/thebio7j/public_html/home/admin/send_mail.php on line 69
+[06-Jan-2018 14:19:26 Asia/Kolkata] PHP Notice:  Undefined variable: mailto in /home/thebio7j/public_html/home/admin/send_mail.php on line 84
+[06-Jan-2018 14:19:44 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/thebio7j/public_html/home/admin/send_mail.php on line 46
+[06-Jan-2018 14:19:44 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects exactly 1 parameter, 2 given in /home/thebio7j/public_html/home/admin/send_mail.php on line 52
+[06-Jan-2018 14:19:44 Asia/Kolkata] PHP Notice:  Undefined offset: 1 in /home/thebio7j/public_html/home/admin/send_mail.php on line 64
+[06-Jan-2018 14:19:44 Asia/Kolkata] PHP Notice:  Undefined index: sub in /home/thebio7j/public_html/home/admin/send_mail.php on line 68
+[06-Jan-2018 14:19:44 Asia/Kolkata] PHP Notice:  Undefined index: msg in /home/thebio7j/public_html/home/admin/send_mail.php on line 69
+[06-Jan-2018 14:19:44 Asia/Kolkata] PHP Notice:  Undefined variable: mailto in /home/thebio7j/public_html/home/admin/send_mail.php on line 84
+[06-Jan-2018 14:22:07 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/thebio7j/public_html/home/admin/send_mail.php on line 46
+[06-Jan-2018 14:22:07 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects exactly 1 parameter, 2 given in /home/thebio7j/public_html/home/admin/send_mail.php on line 52
+[06-Jan-2018 14:22:07 Asia/Kolkata] PHP Notice:  Undefined offset: 1 in /home/thebio7j/public_html/home/admin/send_mail.php on line 64
+[06-Jan-2018 14:22:07 Asia/Kolkata] PHP Notice:  Undefined index: sub in /home/thebio7j/public_html/home/admin/send_mail.php on line 68
+[06-Jan-2018 14:22:07 Asia/Kolkata] PHP Notice:  Undefined index: msg in /home/thebio7j/public_html/home/admin/send_mail.php on line 69
+[06-Jan-2018 14:22:07 Asia/Kolkata] PHP Notice:  Undefined variable: mailto in /home/thebio7j/public_html/home/admin/send_mail.php on line 84
+[06-Jan-2018 14:28:35 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/thebio7j/public_html/home/admin/send_mail.php on line 16
+[06-Jan-2018 14:28:35 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/thebio7j/public_html/home/admin/send_mail.php on line 19
+[06-Jan-2018 14:28:35 Asia/Kolkata] PHP Notice:  Undefined index: sub in /home/thebio7j/public_html/home/admin/send_mail.php on line 25
+[06-Jan-2018 14:28:35 Asia/Kolkata] PHP Notice:  Undefined index: msg in /home/thebio7j/public_html/home/admin/send_mail.php on line 26
+[06-Jan-2018 14:28:35 Asia/Kolkata] PHP Notice:  Undefined variable: mailto in /home/thebio7j/public_html/home/admin/send_mail.php on line 41
+[06-Jan-2018 14:28:50 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/thebio7j/public_html/home/admin/send_mail.php on line 16
+[06-Jan-2018 14:28:50 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/thebio7j/public_html/home/admin/send_mail.php on line 19
+[06-Jan-2018 14:28:50 Asia/Kolkata] PHP Notice:  Undefined variable: mailto in /home/thebio7j/public_html/home/admin/send_mail.php on line 41
+[06-Jan-2018 14:29:48 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/thebio7j/public_html/home/admin/send_mail.php on line 16
+[06-Jan-2018 14:29:48 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/thebio7j/public_html/home/admin/send_mail.php on line 19
+[06-Jan-2018 14:29:48 Asia/Kolkata] PHP Notice:  Undefined variable: mailto in /home/thebio7j/public_html/home/admin/send_mail.php on line 41
+[06-Jan-2018 09:00:58 Etc/GMT] PHP Parse error:  syntax error, unexpected '*', expecting end of file in /home/thebio7j/public_html/home/admin/send_mail.php on line 5
+[06-Jan-2018 09:01:22 Etc/GMT] PHP Parse error:  syntax error, unexpected '*', expecting end of file in /home/thebio7j/public_html/home/admin/send_mail.php on line 5
+[06-Jan-2018 14:34:04 Asia/Kolkata] PHP Warning:  include(phpmailer/mail.php): failed to open stream: No such file or directory in /home/thebio7j/public_html/home/admin/config.php on line 31
+[06-Jan-2018 14:34:04 Asia/Kolkata] PHP Warning:  include(phpmailer/mail.php): failed to open stream: No such file or directory in /home/thebio7j/public_html/home/admin/config.php on line 31
+[06-Jan-2018 14:34:04 Asia/Kolkata] PHP Warning:  include(): Failed opening 'phpmailer/mail.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/thebio7j/public_html/home/admin/config.php on line 31
+[06-Jan-2018 14:37:51 Asia/Kolkata] PHP Warning:  include(phpmailer/mail.php): failed to open stream: No such file or directory in /home/thebio7j/public_html/home/admin/config.php on line 31
+[06-Jan-2018 14:37:51 Asia/Kolkata] PHP Warning:  include(phpmailer/mail.php): failed to open stream: No such file or directory in /home/thebio7j/public_html/home/admin/config.php on line 31
+[06-Jan-2018 14:37:51 Asia/Kolkata] PHP Warning:  include(): Failed opening 'phpmailer/mail.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/thebio7j/public_html/home/admin/config.php on line 31
+[06-Jan-2018 14:37:51 Asia/Kolkata] PHP Fatal error:  Cannot redeclare PHPMailerAutoload() (previously declared in /home/thebio7j/public_html/home/admin/PHPMailer-master/PHPMailerAutoload.php:24) in /home/thebio7j/public_html/home/admin/PHPMailer-master/PHPMailerAutoload.php on line 31
+[06-Jan-2018 14:39:30 Asia/Kolkata] PHP Warning:  include(phpmailer/mail.php): failed to open stream: No such file or directory in /home/thebio7j/public_html/home/admin/config.php on line 31
+[06-Jan-2018 14:39:30 Asia/Kolkata] PHP Warning:  include(phpmailer/mail.php): failed to open stream: No such file or directory in /home/thebio7j/public_html/home/admin/config.php on line 31
+[06-Jan-2018 14:39:30 Asia/Kolkata] PHP Warning:  include(): Failed opening 'phpmailer/mail.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/thebio7j/public_html/home/admin/config.php on line 31
+[06-Jan-2018 14:39:31 Asia/Kolkata] PHP Fatal error:  Cannot redeclare PHPMailerAutoload() (previously declared in /home/thebio7j/public_html/home/admin/PHPMailer-master/PHPMailerAutoload.php:24) in /home/thebio7j/public_html/home/admin/PHPMailer-master/PHPMailerAutoload.php on line 31
+[06-Jan-2018 14:40:40 Asia/Kolkata] PHP Warning:  include(phpmailer/mail.php): failed to open stream: No such file or directory in /home/thebio7j/public_html/home/admin/config.php on line 31
+[06-Jan-2018 14:40:40 Asia/Kolkata] PHP Warning:  include(phpmailer/mail.php): failed to open stream: No such file or directory in /home/thebio7j/public_html/home/admin/config.php on line 31
+[06-Jan-2018 14:40:40 Asia/Kolkata] PHP Warning:  include(): Failed opening 'phpmailer/mail.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/thebio7j/public_html/home/admin/config.php on line 31
+[06-Jan-2018 14:40:40 Asia/Kolkata] PHP Fatal error:  Cannot redeclare PHPMailerAutoload() (previously declared in /home/thebio7j/public_html/home/admin/PHPMailer-master/PHPMailerAutoload.php:24) in /home/thebio7j/public_html/home/admin/PHPMailer-master/PHPMailerAutoload.php on line 31
+[06-Jan-2018 09:19:19 Etc/GMT] PHP Parse error:  syntax error, unexpected ')' in /home/thebio7j/public_html/home/admin/send_mail.php on line 58
+[06-Jan-2018 14:50:26 Asia/Kolkata] PHP Notice:  Undefined index: sub in /home/thebio7j/public_html/home/admin/send_mail.php on line 61
+[06-Jan-2018 14:50:26 Asia/Kolkata] PHP Notice:  Undefined index: msg in /home/thebio7j/public_html/home/admin/send_mail.php on line 62
+[06-Jan-2018 14:50:34 Asia/Kolkata] PHP Fatal error:  Cannot redeclare PHPMailerAutoload() (previously declared in /home/thebio7j/public_html/home/admin/PHPMailer-master/PHPMailerAutoload.php:24) in /home/thebio7j/public_html/home/admin/PHPMailer-master/PHPMailerAutoload.php on line 31
+[06-Jan-2018 14:51:29 Asia/Kolkata] PHP Fatal error:  Cannot redeclare PHPMailerAutoload() (previously declared in /home/thebio7j/public_html/home/admin/PHPMailer-master/PHPMailerAutoload.php:24) in /home/thebio7j/public_html/home/admin/PHPMailer-master/PHPMailerAutoload.php on line 31
+[06-Jan-2018 09:22:29 Etc/GMT] PHP Parse error:  syntax error, unexpected '$cu' (T_VARIABLE) in /home/thebio7j/public_html/home/admin/send_mail.php on line 60
+[06-Jan-2018 14:53:33 Asia/Kolkata] PHP Fatal error:  Cannot redeclare PHPMailerAutoload() (previously declared in /home/thebio7j/public_html/home/admin/PHPMailer-master/PHPMailerAutoload.php:24) in /home/thebio7j/public_html/home/admin/PHPMailer-master/PHPMailerAutoload.php on line 31
+[06-Jan-2018 14:56:22 Asia/Kolkata] PHP Fatal error:  Cannot redeclare PHPMailerAutoload() (previously declared in /home/thebio7j/public_html/home/admin/PHPMailer-master/PHPMailerAutoload.php:24) in /home/thebio7j/public_html/home/admin/PHPMailer-master/PHPMailerAutoload.php on line 31
+[06-Jan-2018 16:21:40 Asia/Kolkata] PHP Fatal error:  Cannot redeclare PHPMailerAutoload() (previously declared in /home/thebio7j/public_html/home/admin/PHPMailer-master/PHPMailerAutoload.php:24) in /home/thebio7j/public_html/home/admin/PHPMailer-master/PHPMailerAutoload.php on line 31
+[06-Jan-2018 16:22:01 Asia/Kolkata] PHP Fatal error:  Cannot redeclare PHPMailerAutoload() (previously declared in /home/thebio7j/public_html/home/admin/PHPMailer-master/PHPMailerAutoload.php:24) in /home/thebio7j/public_html/home/admin/PHPMailer-master/PHPMailerAutoload.php on line 31
+[06-Jan-2018 16:23:05 Asia/Kolkata] PHP Fatal error:  Cannot redeclare PHPMailerAutoload() (previously declared in /home/thebio7j/public_html/home/admin/PHPMailer-master/PHPMailerAutoload.php:24) in /home/thebio7j/public_html/home/admin/PHPMailer-master/PHPMailerAutoload.php on line 31
+[06-Jan-2018 16:23:56 Asia/Kolkata] PHP Fatal error:  Cannot redeclare PHPMailerAutoload() (previously declared in /home/thebio7j/public_html/home/admin/PHPMailer-master/PHPMailerAutoload.php:24) in /home/thebio7j/public_html/home/admin/PHPMailer-master/PHPMailerAutoload.php on line 31
+[06-Jan-2018 16:24:13 Asia/Kolkata] PHP Fatal error:  Cannot redeclare PHPMailerAutoload() (previously declared in /home/thebio7j/public_html/home/admin/PHPMailer-master/PHPMailerAutoload.php:24) in /home/thebio7j/public_html/home/admin/PHPMailer-master/PHPMailerAutoload.php on line 31
+[06-Jan-2018 16:25:58 Asia/Kolkata] PHP Fatal error:  Cannot redeclare PHPMailerAutoload() (previously declared in /home/thebio7j/public_html/home/admin/PHPMailer-master/PHPMailerAutoload.php:24) in /home/thebio7j/public_html/home/admin/PHPMailer-master/PHPMailerAutoload.php on line 31
+[06-Jan-2018 16:29:14 Asia/Kolkata] PHP Fatal error:  Cannot redeclare PHPMailerAutoload() (previously declared in /home/thebio7j/public_html/home/admin/PHPMailer-master/PHPMailerAutoload.php:24) in /home/thebio7j/public_html/home/admin/PHPMailer-master/PHPMailerAutoload.php on line 31
+[06-Jan-2018 16:36:01 Asia/Kolkata] PHP Notice:  Undefined variable: i in /home/thebio7j/public_html/home/admin/send_mail.php on line 58
+[06-Jan-2018 16:36:01 Asia/Kolkata] PHP Notice:  Undefined index:  in /home/thebio7j/public_html/home/admin/send_mail.php on line 58
+[06-Jan-2018 16:36:01 Asia/Kolkata] PHP Fatal error:  Cannot redeclare PHPMailerAutoload() (previously declared in /home/thebio7j/public_html/home/admin/PHPMailer-master/PHPMailerAutoload.php:24) in /home/thebio7j/public_html/home/admin/PHPMailer-master/PHPMailerAutoload.php on line 31
+[06-Jan-2018 16:36:25 Asia/Kolkata] PHP Notice:  Undefined variable: i in /home/thebio7j/public_html/home/admin/send_mail.php on line 58
+[06-Jan-2018 16:36:25 Asia/Kolkata] PHP Notice:  Undefined index:  in /home/thebio7j/public_html/home/admin/send_mail.php on line 58
+[06-Jan-2018 16:36:25 Asia/Kolkata] PHP Fatal error:  Cannot redeclare PHPMailerAutoload() (previously declared in /home/thebio7j/public_html/home/admin/PHPMailer-master/PHPMailerAutoload.php:24) in /home/thebio7j/public_html/home/admin/PHPMailer-master/PHPMailerAutoload.php on line 31
+[06-Jan-2018 16:36:36 Asia/Kolkata] PHP Notice:  Undefined variable: i in /home/thebio7j/public_html/home/admin/send_mail.php on line 58
+[06-Jan-2018 16:36:36 Asia/Kolkata] PHP Notice:  Undefined index:  in /home/thebio7j/public_html/home/admin/send_mail.php on line 58
+[06-Jan-2018 16:36:36 Asia/Kolkata] PHP Fatal error:  Cannot redeclare PHPMailerAutoload() (previously declared in /home/thebio7j/public_html/home/admin/PHPMailer-master/PHPMailerAutoload.php:24) in /home/thebio7j/public_html/home/admin/PHPMailer-master/PHPMailerAutoload.php on line 31
+[06-Jan-2018 16:36:44 Asia/Kolkata] PHP Notice:  Undefined variable: i in /home/thebio7j/public_html/home/admin/send_mail.php on line 58
+[06-Jan-2018 16:36:44 Asia/Kolkata] PHP Notice:  Undefined index:  in /home/thebio7j/public_html/home/admin/send_mail.php on line 58
+[06-Jan-2018 16:36:44 Asia/Kolkata] PHP Fatal error:  Cannot redeclare PHPMailerAutoload() (previously declared in /home/thebio7j/public_html/home/admin/PHPMailer-master/PHPMailerAutoload.php:24) in /home/thebio7j/public_html/home/admin/PHPMailer-master/PHPMailerAutoload.php on line 31
+[06-Jan-2018 16:39:17 Asia/Kolkata] PHP Notice:  Undefined index: mailer in /home/thebio7j/public_html/home/admin/send_mail.php on line 62
+[06-Jan-2018 19:14:02 Asia/Kolkata] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/thebio7j/public_html/home/admin/viewbusiness.php on line 287
+[06-Jan-2018 19:16:04 Asia/Kolkata] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/thebio7j/public_html/home/admin/viewbusiness.php on line 287
+[06-Jan-2018 19:17:39 Asia/Kolkata] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/thebio7j/public_html/home/admin/viewbusiness.php on line 287
+[06-Jan-2018 19:27:13 Asia/Kolkata] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/thebio7j/public_html/home/admin/viewbusiness.php on line 287
+[06-Jan-2018 19:27:44 Asia/Kolkata] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/thebio7j/public_html/home/admin/viewbusiness.php on line 287
+[06-Jan-2018 19:33:30 Asia/Kolkata] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/thebio7j/public_html/home/admin/viewbusiness.php on line 287
+[06-Jan-2018 19:34:18 Asia/Kolkata] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/thebio7j/public_html/home/admin/viewbusiness.php on line 287
+[06-Jan-2018 19:35:42 Asia/Kolkata] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/thebio7j/public_html/home/admin/viewbusiness.php on line 287
+[06-Jan-2018 19:44:11 Asia/Kolkata] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/thebio7j/public_html/home/admin/viewbusiness.php on line 287
+[06-Jan-2018 19:49:11 Asia/Kolkata] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/thebio7j/public_html/home/admin/viewbusiness.php on line 287
+[06-Jan-2018 19:49:33 Asia/Kolkata] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/thebio7j/public_html/home/admin/viewbusiness.php on line 287
+[07-Jan-2018 14:09:55 Asia/Kolkata] PHP Notice:  Undefined offset: 1 in /home/thebio7j/public_html/home/admin/displaylead.php on line 35
+[07-Jan-2018 14:09:55 Asia/Kolkata] PHP Notice:  Undefined offset: 1 in /home/thebio7j/public_html/home/admin/displaylead.php on line 38
+[07-Jan-2018 14:09:55 Asia/Kolkata] PHP Notice:  Undefined offset: 2 in /home/thebio7j/public_html/home/admin/displaylead.php on line 42
+[07-Jan-2018 14:09:55 Asia/Kolkata] PHP Notice:  Undefined offset: 2 in /home/thebio7j/public_html/home/admin/displaylead.php on line 45
+[07-Jan-2018 14:09:55 Asia/Kolkata] PHP Notice:  Undefined offset: 3 in /home/thebio7j/public_html/home/admin/displaylead.php on line 49
+[07-Jan-2018 14:09:55 Asia/Kolkata] PHP Notice:  Undefined offset: 3 in /home/thebio7j/public_html/home/admin/displaylead.php on line 52
+[07-Jan-2018 17:13:47 Asia/Kolkata] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/thebio7j/public_html/home/admin/viewbusiness.php on line 287
+[08-Jan-2018 14:02:57 Asia/Kolkata] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/thebio7j/public_html/home/admin/viewbusiness.php on line 287
+[08-Jan-2018 14:14:28 Asia/Kolkata] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/thebio7j/public_html/home/admin/viewbusiness.php on line 287
+[08-Jan-2018 14:14:44 Asia/Kolkata] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/thebio7j/public_html/home/admin/viewbusiness.php on line 287
+[08-Jan-2018 14:32:46 Asia/Kolkata] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/thebio7j/public_html/home/admin/viewbusiness.php on line 287
+[08-Jan-2018 14:32:52 Asia/Kolkata] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/thebio7j/public_html/home/admin/viewbusiness.php on line 287
+[08-Jan-2018 14:34:01 Asia/Kolkata] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/thebio7j/public_html/home/admin/viewbusiness.php on line 287
+[08-Jan-2018 14:34:11 Asia/Kolkata] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/thebio7j/public_html/home/admin/viewbusiness.php on line 287
+[08-Jan-2018 21:21:20 Asia/Kolkata] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/thebio7j/public_html/home/admin/viewbusiness.php on line 287
+[08-Jan-2018 21:21:33 Asia/Kolkata] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/thebio7j/public_html/home/admin/viewbusiness.php on line 287
+[08-Jan-2018 21:22:04 Asia/Kolkata] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/thebio7j/public_html/home/admin/viewbusiness.php on line 287
+[09-Jan-2018 13:01:14 Asia/Kolkata] PHP Notice:  Undefined offset: 1 in /home/thebio7j/public_html/home/admin/displaylead.php on line 35
+[09-Jan-2018 13:01:14 Asia/Kolkata] PHP Notice:  Undefined offset: 1 in /home/thebio7j/public_html/home/admin/displaylead.php on line 38
+[09-Jan-2018 13:01:14 Asia/Kolkata] PHP Notice:  Undefined offset: 2 in /home/thebio7j/public_html/home/admin/displaylead.php on line 42
+[09-Jan-2018 13:01:14 Asia/Kolkata] PHP Notice:  Undefined offset: 2 in /home/thebio7j/public_html/home/admin/displaylead.php on line 45
+[09-Jan-2018 13:01:14 Asia/Kolkata] PHP Notice:  Undefined offset: 3 in /home/thebio7j/public_html/home/admin/displaylead.php on line 49
+[09-Jan-2018 13:01:14 Asia/Kolkata] PHP Notice:  Undefined offset: 3 in /home/thebio7j/public_html/home/admin/displaylead.php on line 52
+[09-Jan-2018 13:01:28 Asia/Kolkata] PHP Notice:  Undefined offset: 2 in /home/thebio7j/public_html/home/admin/displaylead.php on line 42
+[09-Jan-2018 13:01:28 Asia/Kolkata] PHP Notice:  Undefined offset: 2 in /home/thebio7j/public_html/home/admin/displaylead.php on line 45
+[09-Jan-2018 13:01:28 Asia/Kolkata] PHP Notice:  Undefined offset: 3 in /home/thebio7j/public_html/home/admin/displaylead.php on line 49
+[09-Jan-2018 13:01:28 Asia/Kolkata] PHP Notice:  Undefined offset: 3 in /home/thebio7j/public_html/home/admin/displaylead.php on line 52
+[09-Jan-2018 17:53:41 Asia/Kolkata] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'thebio7j_bizroot.clientprofile' doesn't exist in /home/thebio7j/public_html/home/admin/deleteclient.php:16
+Stack trace:
+#0 /home/thebio7j/public_html/home/admin/deleteclient.php(16): PDOStatement->execute()
+#1 {main}
+  thrown in /home/thebio7j/public_html/home/admin/deleteclient.php on line 16
+[09-Jan-2018 17:53:43 Asia/Kolkata] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'thebio7j_bizroot.clientprofile' doesn't exist in /home/thebio7j/public_html/home/admin/deleteclient.php:16
+Stack trace:
+#0 /home/thebio7j/public_html/home/admin/deleteclient.php(16): PDOStatement->execute()
+#1 {main}
+  thrown in /home/thebio7j/public_html/home/admin/deleteclient.php on line 16
+[09-Jan-2018 17:53:43 Asia/Kolkata] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'thebio7j_bizroot.clientprofile' doesn't exist in /home/thebio7j/public_html/home/admin/deleteclient.php:16
+Stack trace:
+#0 /home/thebio7j/public_html/home/admin/deleteclient.php(16): PDOStatement->execute()
+#1 {main}
+  thrown in /home/thebio7j/public_html/home/admin/deleteclient.php on line 16
+[09-Jan-2018 17:53:43 Asia/Kolkata] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'thebio7j_bizroot.clientprofile' doesn't exist in /home/thebio7j/public_html/home/admin/deleteclient.php:16
+Stack trace:
+#0 /home/thebio7j/public_html/home/admin/deleteclient.php(16): PDOStatement->execute()
+#1 {main}
+  thrown in /home/thebio7j/public_html/home/admin/deleteclient.php on line 16
+[09-Jan-2018 17:53:43 Asia/Kolkata] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'thebio7j_bizroot.clientprofile' doesn't exist in /home/thebio7j/public_html/home/admin/deleteclient.php:16
+Stack trace:
+#0 /home/thebio7j/public_html/home/admin/deleteclient.php(16): PDOStatement->execute()
+#1 {main}
+  thrown in /home/thebio7j/public_html/home/admin/deleteclient.php on line 16
+[09-Jan-2018 17:53:43 Asia/Kolkata] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'thebio7j_bizroot.clientprofile' doesn't exist in /home/thebio7j/public_html/home/admin/deleteclient.php:16
+Stack trace:
+#0 /home/thebio7j/public_html/home/admin/deleteclient.php(16): PDOStatement->execute()
+#1 {main}
+  thrown in /home/thebio7j/public_html/home/admin/deleteclient.php on line 16
+[09-Jan-2018 17:53:43 Asia/Kolkata] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'thebio7j_bizroot.clientprofile' doesn't exist in /home/thebio7j/public_html/home/admin/deleteclient.php:16
+Stack trace:
+#0 /home/thebio7j/public_html/home/admin/deleteclient.php(16): PDOStatement->execute()
+#1 {main}
+  thrown in /home/thebio7j/public_html/home/admin/deleteclient.php on line 16
+[09-Jan-2018 17:53:44 Asia/Kolkata] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'thebio7j_bizroot.clientprofile' doesn't exist in /home/thebio7j/public_html/home/admin/deleteclient.php:16
+Stack trace:
+#0 /home/thebio7j/public_html/home/admin/deleteclient.php(16): PDOStatement->execute()
+#1 {main}
+  thrown in /home/thebio7j/public_html/home/admin/deleteclient.php on line 16
+[09-Jan-2018 17:53:44 Asia/Kolkata] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'thebio7j_bizroot.clientprofile' doesn't exist in /home/thebio7j/public_html/home/admin/deleteclient.php:16
+Stack trace:
+#0 /home/thebio7j/public_html/home/admin/deleteclient.php(16): PDOStatement->execute()
+#1 {main}
+  thrown in /home/thebio7j/public_html/home/admin/deleteclient.php on line 16
+[09-Jan-2018 17:53:44 Asia/Kolkata] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'thebio7j_bizroot.clientprofile' doesn't exist in /home/thebio7j/public_html/home/admin/deleteclient.php:16
+Stack trace:
+#0 /home/thebio7j/public_html/home/admin/deleteclient.php(16): PDOStatement->execute()
+#1 {main}
+  thrown in /home/thebio7j/public_html/home/admin/deleteclient.php on line 16
+[09-Jan-2018 17:53:44 Asia/Kolkata] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'thebio7j_bizroot.clientprofile' doesn't exist in /home/thebio7j/public_html/home/admin/deleteclient.php:16
+Stack trace:
+#0 /home/thebio7j/public_html/home/admin/deleteclient.php(16): PDOStatement->execute()
+#1 {main}
+  thrown in /home/thebio7j/public_html/home/admin/deleteclient.php on line 16
+[09-Jan-2018 17:53:44 Asia/Kolkata] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'thebio7j_bizroot.clientprofile' doesn't exist in /home/thebio7j/public_html/home/admin/deleteclient.php:16
+Stack trace:
+#0 /home/thebio7j/public_html/home/admin/deleteclient.php(16): PDOStatement->execute()
+#1 {main}
+  thrown in /home/thebio7j/public_html/home/admin/deleteclient.php on line 16
+[09-Jan-2018 17:53:44 Asia/Kolkata] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'thebio7j_bizroot.clientprofile' doesn't exist in /home/thebio7j/public_html/home/admin/deleteclient.php:16
+Stack trace:
+#0 /home/thebio7j/public_html/home/admin/deleteclient.php(16): PDOStatement->execute()
+#1 {main}
+  thrown in /home/thebio7j/public_html/home/admin/deleteclient.php on line 16
+[09-Jan-2018 17:53:45 Asia/Kolkata] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'thebio7j_bizroot.clientprofile' doesn't exist in /home/thebio7j/public_html/home/admin/deleteclient.php:16
+Stack trace:
+#0 /home/thebio7j/public_html/home/admin/deleteclient.php(16): PDOStatement->execute()
+#1 {main}
+  thrown in /home/thebio7j/public_html/home/admin/deleteclient.php on line 16
+[09-Jan-2018 17:53:45 Asia/Kolkata] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'thebio7j_bizroot.clientprofile' doesn't exist in /home/thebio7j/public_html/home/admin/deleteclient.php:16
+Stack trace:
+#0 /home/thebio7j/public_html/home/admin/deleteclient.php(16): PDOStatement->execute()
+#1 {main}
+  thrown in /home/thebio7j/public_html/home/admin/deleteclient.php on line 16
+[09-Jan-2018 17:53:45 Asia/Kolkata] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'thebio7j_bizroot.clientprofile' doesn't exist in /home/thebio7j/public_html/home/admin/deleteclient.php:16
+Stack trace:
+#0 /home/thebio7j/public_html/home/admin/deleteclient.php(16): PDOStatement->execute()
+#1 {main}
+  thrown in /home/thebio7j/public_html/home/admin/deleteclient.php on line 16
+[09-Jan-2018 17:53:45 Asia/Kolkata] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'thebio7j_bizroot.clientprofile' doesn't exist in /home/thebio7j/public_html/home/admin/deleteclient.php:16
+Stack trace:
+#0 /home/thebio7j/public_html/home/admin/deleteclient.php(16): PDOStatement->execute()
+#1 {main}
+  thrown in /home/thebio7j/public_html/home/admin/deleteclient.php on line 16
+[09-Jan-2018 17:53:45 Asia/Kolkata] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'thebio7j_bizroot.clientprofile' doesn't exist in /home/thebio7j/public_html/home/admin/deleteclient.php:16
+Stack trace:
+#0 /home/thebio7j/public_html/home/admin/deleteclient.php(16): PDOStatement->execute()
+#1 {main}
+  thrown in /home/thebio7j/public_html/home/admin/deleteclient.php on line 16
+[09-Jan-2018 17:53:46 Asia/Kolkata] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'thebio7j_bizroot.clientprofile' doesn't exist in /home/thebio7j/public_html/home/admin/deleteclient.php:16
+Stack trace:
+#0 /home/thebio7j/public_html/home/admin/deleteclient.php(16): PDOStatement->execute()
+#1 {main}
+  thrown in /home/thebio7j/public_html/home/admin/deleteclient.php on line 16
+[09-Jan-2018 17:53:46 Asia/Kolkata] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'thebio7j_bizroot.clientprofile' doesn't exist in /home/thebio7j/public_html/home/admin/deleteclient.php:16
+Stack trace:
+#0 /home/thebio7j/public_html/home/admin/deleteclient.php(16): PDOStatement->execute()
+#1 {main}
+  thrown in /home/thebio7j/public_html/home/admin/deleteclient.php on line 16
+[09-Jan-2018 17:53:46 Asia/Kolkata] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'thebio7j_bizroot.clientprofile' doesn't exist in /home/thebio7j/public_html/home/admin/deleteclient.php:16
+Stack trace:
+#0 /home/thebio7j/public_html/home/admin/deleteclient.php(16): PDOStatement->execute()
+#1 {main}
+  thrown in /home/thebio7j/public_html/home/admin/deleteclient.php on line 16
+[09-Jan-2018 17:53:46 Asia/Kolkata] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'thebio7j_bizroot.clientprofile' doesn't exist in /home/thebio7j/public_html/home/admin/deleteclient.php:16
+Stack trace:
+#0 /home/thebio7j/public_html/home/admin/deleteclient.php(16): PDOStatement->execute()
+#1 {main}
+  thrown in /home/thebio7j/public_html/home/admin/deleteclient.php on line 16
+[09-Jan-2018 17:53:46 Asia/Kolkata] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'thebio7j_bizroot.clientprofile' doesn't exist in /home/thebio7j/public_html/home/admin/deleteclient.php:16
+Stack trace:
+#0 /home/thebio7j/public_html/home/admin/deleteclient.php(16): PDOStatement->execute()
+#1 {main}
+  thrown in /home/thebio7j/public_html/home/admin/deleteclient.php on line 16
+[09-Jan-2018 17:53:46 Asia/Kolkata] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'thebio7j_bizroot.clientprofile' doesn't exist in /home/thebio7j/public_html/home/admin/deleteclient.php:16
+Stack trace:
+#0 /home/thebio7j/public_html/home/admin/deleteclient.php(16): PDOStatement->execute()
+#1 {main}
+  thrown in /home/thebio7j/public_html/home/admin/deleteclient.php on line 16
+[09-Jan-2018 17:53:52 Asia/Kolkata] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'thebio7j_bizroot.clientprofile' doesn't exist in /home/thebio7j/public_html/home/admin/deleteclient.php:16
+Stack trace:
+#0 /home/thebio7j/public_html/home/admin/deleteclient.php(16): PDOStatement->execute()
+#1 {main}
+  thrown in /home/thebio7j/public_html/home/admin/deleteclient.php on line 16
+[09-Jan-2018 17:54:20 Asia/Kolkata] PHP Notice:  Undefined index: id in /home/thebio7j/public_html/home/admin/updateindustry.php on line 4
+[09-Jan-2018 17:54:20 Asia/Kolkata] PHP Notice:  Undefined index: name in /home/thebio7j/public_html/home/admin/updateindustry.php on line 4
+[09-Jan-2018 18:07:29 Asia/Kolkata] PHP Notice:  Undefined index: id in /home/thebio7j/public_html/home/admin/updateindustry.php on line 4
+[09-Jan-2018 18:07:29 Asia/Kolkata] PHP Notice:  Undefined index: name in /home/thebio7j/public_html/home/admin/updateindustry.php on line 4
+[09-Jan-2018 18:09:01 Asia/Kolkata] PHP Notice:  Undefined index: id in /home/thebio7j/public_html/home/admin/updateindustry.php on line 4
+[09-Jan-2018 18:09:01 Asia/Kolkata] PHP Notice:  Undefined index: name in /home/thebio7j/public_html/home/admin/updateindustry.php on line 4
+[09-Jan-2018 18:15:55 Asia/Kolkata] PHP Notice:  Undefined index: id in /home/thebio7j/public_html/home/admin/updateindustry.php on line 4
+[09-Jan-2018 18:15:55 Asia/Kolkata] PHP Notice:  Undefined index: name in /home/thebio7j/public_html/home/admin/updateindustry.php on line 4
+[09-Jan-2018 19:36:19 Asia/Kolkata] PHP Notice:  Undefined index: id in /home/thebio7j/public_html/home/admin/updatesubindustry.php on line 4
+[09-Jan-2018 19:36:19 Asia/Kolkata] PHP Notice:  Undefined index: name in /home/thebio7j/public_html/home/admin/updatesubindustry.php on line 4
+[09-Jan-2018 23:44:46 Asia/Kolkata] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/thebio7j/public_html/home/admin/viewbusiness.php on line 287
+[10-Jan-2018 00:15:53 Asia/Kolkata] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/thebio7j/public_html/home/admin/viewbusiness.php on line 287
+[10-Jan-2018 00:19:11 Asia/Kolkata] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/thebio7j/public_html/home/admin/viewbusiness.php on line 287
+[10-Jan-2018 00:19:28 Asia/Kolkata] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/thebio7j/public_html/home/admin/viewbusiness.php on line 287
+[10-Jan-2018 07:56:49 Asia/Kolkata] PHP Notice:  Undefined index: sub in /home/thebio7j/public_html/home/admin/send_mail.php on line 32
+[10-Jan-2018 07:56:49 Asia/Kolkata] PHP Notice:  Undefined index: msg in /home/thebio7j/public_html/home/admin/send_mail.php on line 33
+[10-Jan-2018 12:38:40 Asia/Kolkata] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/thebio7j/public_html/home/admin/viewbusiness.php on line 287
+[10-Jan-2018 14:41:27 Asia/Kolkata] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/thebio7j/public_html/home/admin/viewbusiness.php on line 287
+[11-Jan-2018 14:21:35 Asia/Kolkata] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/thebio7j/public_html/home/admin/viewbusiness.php on line 287
+[11-Jan-2018 19:35:40 Asia/Kolkata] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/thebio7j/public_html/home/admin/viewbusiness.php on line 287
+[11-Jan-2018 21:23:59 Asia/Kolkata] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/thebio7j/public_html/home/admin/viewbusiness.php on line 287
+[11-Jan-2018 21:27:17 Asia/Kolkata] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/thebio7j/public_html/home/admin/viewbusiness.php on line 287
+[11-Jan-2018 21:33:46 Asia/Kolkata] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/thebio7j/public_html/home/admin/viewbusiness.php on line 287
+[11-Jan-2018 21:35:48 Asia/Kolkata] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/thebio7j/public_html/home/admin/viewbusiness.php on line 287
+[12-Jan-2018 11:08:30 Asia/Kolkata] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/thebio7j/public_html/home/admin/viewbusiness.php on line 287
+[12-Jan-2018 15:20:07 Asia/Kolkata] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/thebio7j/public_html/home/admin/viewbusiness.php on line 287
+[12-Jan-2018 16:38:40 Asia/Kolkata] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/thebio7j/public_html/home/admin/viewbusiness.php on line 287
+[12-Jan-2018 16:39:03 Asia/Kolkata] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/thebio7j/public_html/home/admin/viewbusiness.php on line 287
+[12-Jan-2018 16:53:14 Asia/Kolkata] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/thebio7j/public_html/home/admin/viewbusiness.php on line 287
+[12-Jan-2018 16:53:15 Asia/Kolkata] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/thebio7j/public_html/home/admin/viewbusiness.php on line 287
+[12-Jan-2018 16:53:19 Asia/Kolkata] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/thebio7j/public_html/home/admin/viewbusiness.php on line 287
+[12-Jan-2018 16:53:31 Asia/Kolkata] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/thebio7j/public_html/home/admin/viewbusiness.php on line 287
+[12-Jan-2018 16:53:40 Asia/Kolkata] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/thebio7j/public_html/home/admin/viewbusiness.php on line 287
+[12-Jan-2018 16:55:52 Asia/Kolkata] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/thebio7j/public_html/home/admin/viewbusiness.php on line 287
+[13-Jan-2018 04:40:22 Asia/Kolkata] PHP Notice:  Undefined index: sub in /home/thebio7j/public_html/home/admin/send_mail.php on line 32
+[13-Jan-2018 04:40:22 Asia/Kolkata] PHP Notice:  Undefined index: msg in /home/thebio7j/public_html/home/admin/send_mail.php on line 33
+[15-Jan-2018 22:04:43 Asia/Kolkata] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/thebio7j/public_html/home/admin/viewbusiness.php on line 287
+[20-Jan-2018 16:10:49 Asia/Kolkata] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/thebio7j/public_html/home/admin/viewbusiness.php on line 287
+[24-Jan-2018 14:51:28 Asia/Kolkata] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/thebio7j/public_html/home/admin/viewbusiness.php on line 287
